@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: a37a01bb95ebb8644a51b2f228800891
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: foot_L
+    100004: foot_R
+    100006: forearm_L
+    100008: forearm_R
+    100010: hand_L
+    100012: hand_R
+    100014: pelvis_L
+    100016: pelvis_R
+    100018: player_mesh
+    100020: shin_L
+    100022: shin_R
+    100024: shoulder_L
+    100026: shoulder_R
+    100028: skeleton
+    100030: spine
+    100032: spine_001
+    100034: spine_002
+    100036: spine_003
+    100038: spine_004
+    100040: spine_005
+    100042: spine_006
+    100044: thigh_L
+    100046: thigh_R
+    100048: toe_L
+    100050: toe_R
+    100052: upper_arm_L
+    100054: upper_arm_R
+    100056: hat
+    100058: IK_hand_pole_L
+    100060: IK_hand_pole_R
+    100062: IK_hand_target_L
+    100064: IK_hand_target_R
+    100066: IK_shape_foot
+    100068: IK_shape_hand
+    100070: IK_shape_joint
+    100072: katana
+    100074: player
+    100076: target_leg_L
+    100078: target_leg_pole_L
+    100080: target_leg_pole_R
+    100082: target_leg_R
+    400000: //RootNode
+    400002: foot_L
+    400004: foot_R
+    400006: forearm_L
+    400008: forearm_R
+    400010: hand_L
+    400012: hand_R
+    400014: pelvis_L
+    400016: pelvis_R
+    400018: player_mesh
+    400020: shin_L
+    400022: shin_R
+    400024: shoulder_L
+    400026: shoulder_R
+    400028: skeleton
+    400030: spine
+    400032: spine_001
+    400034: spine_002
+    400036: spine_003
+    400038: spine_004
+    400040: spine_005
+    400042: spine_006
+    400044: thigh_L
+    400046: thigh_R
+    400048: toe_L
+    400050: toe_R
+    400052: upper_arm_L
+    400054: upper_arm_R
+    400056: hat
+    400058: IK_hand_pole_L
+    400060: IK_hand_pole_R
+    400062: IK_hand_target_L
+    400064: IK_hand_target_R
+    400066: IK_shape_foot
+    400068: IK_shape_hand
+    400070: IK_shape_joint
+    400072: katana
+    400074: player
+    400076: target_leg_L
+    400078: target_leg_pole_L
+    400080: target_leg_pole_R
+    400082: target_leg_R
+    2100000: label
+    2100002: pants
+    2100004: skin
+    2100006: shape_red
+    2100008: shape_green
+    2100010: shape_blue
+    2100012: steel
+    2100014: divisor
+    2100016: cable
+    2100018: palha
+    2300000: player_mesh
+    2300002: hat
+    2300004: IK_shape_foot
+    2300006: IK_shape_hand
+    2300008: IK_shape_joint
+    2300010: katana
+    2300012: player
+    3300000: player_mesh
+    3300002: hat
+    3300004: IK_shape_foot
+    3300006: IK_shape_hand
+    3300008: IK_shape_joint
+    3300010: katana
+    3300012: player
+    4300000: player_mesh
+    4300002: IK_shape_hand
+    4300004: IK_shape_foot
+    4300006: IK_shape_joint
+    4300008: katana
+    4300010: hat
+    4300012: player
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

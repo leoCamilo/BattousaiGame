@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 617080c793cc3664b87d168adcd42443
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tree
+    100004: tree_leaves
+    100006: tree_leaves_001
+    100008: tree_leaves_002
+    100010: tree_leaves_003
+    100012: tree_leaves_004
+    100014: tree_leaves_005
+    100016: tree_leaves_006
+    100018: tree_leaves_007
+    100020: tree_leaves_008
+    100022: tree_leaves_009
+    100024: tree_leaves_000
+    100026: Armature
+    100028: Bone_00
+    100030: Bone_01
+    100032: Bone_02
+    100034: Bone_03
+    100036: Bone_04
+    100038: Bone_05
+    100040: Bone_06
+    100042: Bone_07
+    100044: Bone_08
+    100046: Bone_09
+    100048: Bone_10
+    100050: Bone_11
+    100052: Bone_12
+    100054: Bone_13
+    100056: Bone_14
+    100058: Bone_15
+    100060: Bone_16
+    100062: Bone_17
+    100064: Bone_18
+    100066: Bone_19
+    100068: Bone_20
+    100070: Bone_21
+    100072: Bone_22
+    100074: Bone_23
+    100076: Bone_24
+    100078: Bone_25
+    400000: //RootNode
+    400002: tree
+    400004: tree_leaves
+    400006: tree_leaves_001
+    400008: tree_leaves_002
+    400010: tree_leaves_003
+    400012: tree_leaves_004
+    400014: tree_leaves_005
+    400016: tree_leaves_006
+    400018: tree_leaves_007
+    400020: tree_leaves_008
+    400022: tree_leaves_009
+    400024: tree_leaves_000
+    400026: Armature
+    400028: Bone_00
+    400030: Bone_01
+    400032: Bone_02
+    400034: Bone_03
+    400036: Bone_04
+    400038: Bone_05
+    400040: Bone_06
+    400042: Bone_07
+    400044: Bone_08
+    400046: Bone_09
+    400048: Bone_10
+    400050: Bone_11
+    400052: Bone_12
+    400054: Bone_13
+    400056: Bone_14
+    400058: Bone_15
+    400060: Bone_16
+    400062: Bone_17
+    400064: Bone_18
+    400066: Bone_19
+    400068: Bone_20
+    400070: Bone_21
+    400072: Bone_22
+    400074: Bone_23
+    400076: Bone_24
+    400078: Bone_25
+    2100000: Material
+    2100002: wood
+    2100004: Material_001
+    2100006: leaves
+    2300000: //RootNode
+    2300002: tree
+    2300004: tree_leaves
+    2300006: tree_leaves_001
+    2300008: tree_leaves_002
+    2300010: tree_leaves_003
+    2300012: tree_leaves_004
+    2300014: tree_leaves_005
+    2300016: tree_leaves_006
+    2300018: tree_leaves_007
+    2300020: tree_leaves_008
+    2300022: tree_leaves_009
+    2300024: tree_leaves_000
+    3300000: //RootNode
+    3300002: tree
+    3300004: tree_leaves
+    3300006: tree_leaves_001
+    3300008: tree_leaves_002
+    3300010: tree_leaves_003
+    3300012: tree_leaves_004
+    3300014: tree_leaves_005
+    3300016: tree_leaves_006
+    3300018: tree_leaves_007
+    3300020: tree_leaves_008
+    3300022: tree_leaves_009
+    3300024: tree_leaves_000
+    4300000: Cube
+    4300002: Plane
+    4300004: tree_leaves_006
+    4300006: tree_leaves_005
+    4300008: tree_leaves_004
+    4300010: tree_leaves_003
+    4300012: tree_leaves_002
+    4300014: tree_leaves_001
+    4300016: tree_leaves
+    4300018: tree
+    4300020: tree_leaves_009
+    4300022: tree_leaves_008
+    4300024: tree_leaves_007
+    4300026: tree_leaves_000
+    7400000: Default Take
+    7400002: ArmatureAction_002
+    9500000: //RootNode
+    13700000: tree
+    13700002: tree_leaves_000
+    13700004: tree_leaves_001
+    13700006: tree_leaves_002
+    13700008: tree_leaves_003
+    13700010: tree_leaves_004
+    13700012: tree_leaves_005
+    13700014: tree_leaves_006
+    13700016: tree_leaves_007
+    13700018: tree_leaves_008
+    13700020: tree_leaves_009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction_002
+      takeName: ArmatureAction_002
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
