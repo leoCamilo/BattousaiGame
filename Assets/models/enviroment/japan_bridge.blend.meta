@@ -1,15 +1,13 @@
 fileFormatVersion: 2
-guid: 41c69072c7129f64c9839048a0c17f8a
+guid: e9bfcf59602a7b14493aa63885f03193
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: columns
-    2100002: roof
-    2100004: walls
-    2100006: door
-    2100008: stone
+    2100000: base
+    2100002: floor
+    2100004: red
     2300000: //RootNode
     3300000: //RootNode
     4300000: Plane
@@ -71,7 +69,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
