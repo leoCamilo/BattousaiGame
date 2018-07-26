@@ -43,6 +43,7 @@ ModelImporter:
     100074: Bone_23
     100076: Bone_24
     100078: Bone_25
+    100080: tree_colider
     400000: //RootNode
     400002: tree
     400004: tree_leaves
@@ -83,10 +84,12 @@ ModelImporter:
     400074: Bone_23
     400076: Bone_24
     400078: Bone_25
+    400080: tree_colider
     2100000: Material
     2100002: wood
     2100004: Material_001
     2100006: leaves
+    2100008: unnamed
     2300000: //RootNode
     2300002: tree
     2300004: tree_leaves
@@ -100,6 +103,7 @@ ModelImporter:
     2300020: tree_leaves_008
     2300022: tree_leaves_009
     2300024: tree_leaves_000
+    2300026: tree_colider
     3300000: //RootNode
     3300002: tree
     3300004: tree_leaves
@@ -113,6 +117,7 @@ ModelImporter:
     3300020: tree_leaves_008
     3300022: tree_leaves_009
     3300024: tree_leaves_000
+    3300026: tree_colider
     4300000: Cube
     4300002: Plane
     4300004: tree_leaves_006
@@ -127,6 +132,7 @@ ModelImporter:
     4300022: tree_leaves_008
     4300024: tree_leaves_007
     4300026: tree_leaves_000
+    4300028: tree_colider
     7400000: Default Take
     7400002: ArmatureAction_002
     9500000: //RootNode

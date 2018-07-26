@@ -4,13 +4,24 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: bridge
+    100004: bridge_colider
     400000: //RootNode
+    400002: bridge
+    400004: bridge_colider
     2100000: base
     2100002: floor
     2100004: red
+    2100006: unnamed
     2300000: //RootNode
+    2300002: bridge
+    2300004: bridge_colider
     3300000: //RootNode
+    3300002: bridge
+    3300004: bridge_colider
     4300000: Plane
+    4300002: bridge_colider
+    4300004: bridge
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
@@ -69,7 +80,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -85,10 +96,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

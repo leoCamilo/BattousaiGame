@@ -4,12 +4,22 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: japan_gata
+    100004: japan_gata_colider
     400000: //RootNode
+    400002: japan_gata
+    400004: japan_gata_colider
     2100000: body
     2100002: base
+    2100004: unnamed
     2300000: //RootNode
+    2300002: japan_gata
+    2300004: japan_gata_colider
     3300000: //RootNode
+    3300002: japan_gata
+    3300004: japan_gata_colider
     4300000: japan_gata
+    4300002: japan_gata_colider
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
