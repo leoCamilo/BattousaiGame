@@ -498,7 +498,7 @@ Light:
     m_Bits: 4294967295
   m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
+  m_BounceIntensity: 2
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
@@ -756,6 +756,81 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &309187330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 100004, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 309187331}
+  - component: {fileID: 309187333}
+  - component: {fileID: 309187332}
+  m_Layer: 0
+  m_Name: bambu_002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4
+  m_IsActive: 1
+--- !u!4 &309187331
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 400004, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 309187330}
+  m_LocalRotation: {x: -0.60380864, y: -0.367988, z: -0.367988, w: 0.60380864}
+  m_LocalPosition: {x: 0.34, y: 0.82, z: -17.73}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2119189642}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -90.00001, y: -62.72, z: 0}
+--- !u!23 &309187332
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 2300002, guid: 2f358dc100a4f7b45a480a1d2f7b4155,
+    type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 309187330}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  - {fileID: 2100002, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &309187333
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 3300002, guid: 2f358dc100a4f7b45a480a1d2f7b4155,
+    type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 309187330}
+  m_Mesh: {fileID: 4300002, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
 --- !u!1001 &348122406
 Prefab:
   m_ObjectHideFlags: 0
@@ -1200,6 +1275,81 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 666906161}
   m_Mesh: {fileID: 4300004, guid: e9bfcf59602a7b14493aa63885f03193, type: 3}
+--- !u!1 &702572717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 100006, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 702572718}
+  - component: {fileID: 702572720}
+  - component: {fileID: 702572719}
+  m_Layer: 0
+  m_Name: bambu_003
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4
+  m_IsActive: 1
+--- !u!4 &702572718
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 400006, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 702572717}
+  m_LocalRotation: {x: -0.67550206, y: -0.20903818, z: -0.20903818, w: 0.67550206}
+  m_LocalPosition: {x: 1.22, y: 0.58, z: -17.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2119189642}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -90.00001, y: -34.39, z: 0}
+--- !u!23 &702572719
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 2300004, guid: 2f358dc100a4f7b45a480a1d2f7b4155,
+    type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 702572717}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  - {fileID: 2100002, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &702572720
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 3300004, guid: 2f358dc100a4f7b45a480a1d2f7b4155,
+    type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 702572717}
+  m_Mesh: {fileID: 4300000, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
 --- !u!1 &716828901
 GameObject:
   m_ObjectHideFlags: 0
@@ -2178,6 +2328,7 @@ Transform:
   - {fileID: 1913425551}
   - {fileID: 716828902}
   - {fileID: 982178020}
+  - {fileID: 2119189642}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2687,6 +2838,112 @@ Transform:
   m_PrefabParentObject: {fileID: 4000848694116776, guid: 0870bfea678c5824e822738c1d03b5da,
     type: 2}
   m_PrefabInternal: {fileID: 2074686838}
+--- !u!1 &2078325902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 100002, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2078325903}
+  - component: {fileID: 2078325905}
+  - component: {fileID: 2078325904}
+  m_Layer: 0
+  m_Name: bambu_001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4
+  m_IsActive: 1
+--- !u!4 &2078325903
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 400002, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2078325902}
+  m_LocalRotation: {x: 0.14749856, y: -0.69155204, z: -0.69155204, w: -0.14749856}
+  m_LocalPosition: {x: 0.03, y: 0.88, z: -17.34}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2119189642}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90.00001, y: -204.08, z: 0}
+--- !u!23 &2078325904
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 2300000, guid: 2f358dc100a4f7b45a480a1d2f7b4155,
+    type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2078325902}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  - {fileID: 2100002, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &2078325905
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 3300000, guid: 2f358dc100a4f7b45a480a1d2f7b4155,
+    type: 3}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2078325902}
+  m_Mesh: {fileID: 4300004, guid: 2f358dc100a4f7b45a480a1d2f7b4155, type: 3}
+--- !u!1 &2119189641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2119189642}
+  m_Layer: 0
+  m_Name: map_bambu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2119189642
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2119189641}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2078325903}
+  - {fileID: 309187331}
+  - {fileID: 702572718}
+  m_Father: {fileID: 1463916167}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2120541965
 Prefab:
   m_ObjectHideFlags: 0
