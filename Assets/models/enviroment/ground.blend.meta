@@ -7,27 +7,50 @@ ModelImporter:
     100002: ground
     100004: Plane
     100006: water
+    100008: mountain
+    100010: under_mountain
+    100012: waterfall
+    100014: stairs
     400000: //RootNode
     400002: ground
     400004: Plane
     400006: water
+    400008: mountain
+    400010: under_mountain
+    400012: waterfall
+    400014: stairs
     2100000: grass
     2100002: unnamed
     2100004: Material_001
     2100006: path
     2100008: snow
     2100010: water
+    2100012: stone
+    2100014: dirty
+    2100016: stairs
     2300000: //RootNode
     2300002: ground
     2300004: Plane
     2300006: water
+    2300008: mountain
+    2300010: under_mountain
+    2300012: waterfall
+    2300014: stairs
     3300000: //RootNode
     3300002: ground
     3300004: Plane
     3300006: water
+    3300008: mountain
+    3300010: under_mountain
+    3300012: waterfall
+    3300014: stairs
     4300000: Plane
     4300002: ground
     4300004: water
+    4300006: mountain
+    4300008: under_mountain
+    4300010: waterfall
+    4300012: stairs
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
@@ -86,7 +109,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -102,10 +125,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

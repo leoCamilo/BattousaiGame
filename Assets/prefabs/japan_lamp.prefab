@@ -126,10 +126,10 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 14
   m_SkinWidth: 0.01
-  m_Mesh: {fileID: 4300000, guid: b3429321c337cfa4fbc26ea2f4c3d869, type: 3}
+  m_Mesh: {fileID: 4300002, guid: b3429321c337cfa4fbc26ea2f4c3d869, type: 3}
 --- !u!108 &108323195725717664
 Light:
   m_ObjectHideFlags: 1
