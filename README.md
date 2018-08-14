@@ -13,5 +13,10 @@ An indie game made by me using [unity engine](https://unity3d.com/pt) and [blend
     some post processing adjustments for learn how it works
     
   - Particle System:
-    
-not finished...
+
+#### game example:
+
+<p align="center">
+  <img src="/gifs/gameplay_example_1.gif" width="49%">
+  <img src="/gifs/gameplay_example_2.gif" width="49%">
+</p>
